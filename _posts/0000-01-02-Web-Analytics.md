@@ -2,16 +2,15 @@
 layout: slide
 title: "Web Analytics Metrics used in LPO"
 ---
-"Use “on page”/“on-site” metrics to monitor in Web Analytics
+"Use “on page”/“on-site” metrics to monitor in Web Analytics                Visitation metrics to track (referrals)
+
+*time on site                                                                 *location, device                                                               
 
 
-*time on site
+*pages per visit                                                               *browser/OS
 
 
-*pages per visit
-
-
-*% of new visitors
+*% of new visitors                                                               *domain/provider
 
 
 *bounce rate
@@ -20,18 +19,7 @@ title: "Web Analytics Metrics used in LPO"
 *goals revenue
 
 
-*exit pages
+*exit pages"
 
-
-Visitation metrics to track (referrals)
-
-
-*location, device
-
-
-*browser/OS
-
-
-*domain/provider"
 
 Use the left arrow to go back!
