@@ -1,25 +1,9 @@
 ---
 layout: slide
-title: "Web Analytics Metrics used in LPO"
+title: "Factors For the Rise of Social Media"
 ---
-"Use “on page”/“on-site” metrics to monitor in Web Analytics        Visitation metrics to track (referrals)
+*Web 2.0
 
-*time on site                                                     *location, device                                                               
+*Mobile Internet/mobile devices 
 
-
-*pages per visit                                                   *browser/OS
-
-
-*% of new visitors                                                 *domain/provider
-
-
-*bounce rate
-
-
-*goals revenue
-
-
-*exit pages"
-
-
-Use the left arrow to go back!
+*Marketing Platforms 
