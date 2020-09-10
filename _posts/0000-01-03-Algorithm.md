@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Algorithm"
+title: What Users Like about Social Media 
 ---
-Are rules programmed to act on data as humans
-might do. The oldest algorithms are embedded in search engines
-and control how content is rated and ranked for search results.
+*Peer-to-Peer/Conversation 
 
-Use the left arrow to go back
+*User-generated content
+
+*Relationship Oriented 
